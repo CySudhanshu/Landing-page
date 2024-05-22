@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+    
+}
+.navbar{
+    cursor: pointer;
+}
+.footer{
+    background-color: blue;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    
+
+}
+.sub-footer{
+    background-color: darkblue;
+    color:white;
+}
